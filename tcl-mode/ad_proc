@@ -1,0 +1,9 @@
+#name : ad_proc ... end
+#group : definitions
+# --
+ad_proc -{1:publicORprivate} ${2:method_name} {
+} {
+    ${3:documentation}
+} {
+    $0
+}

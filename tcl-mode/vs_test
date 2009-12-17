@@ -1,0 +1,9 @@
+#name : vs_test ... end
+#group : definitions
+# --
+vs_test ${1:method_name} { } {
+} {
+    ${2:documentation}
+} {
+    $0
+}
